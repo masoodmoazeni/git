@@ -5,7 +5,7 @@ reset for lats hash commit ->
 
 ``` git reset --hard 7973f793cab3f2c9d09febdd74076e842a9597a2 ```
 
-pul to another branch
+pull and commit to another branch
 ->->->
 
 ```
