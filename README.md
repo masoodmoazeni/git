@@ -23,3 +23,6 @@ list git log ->
 git log
 ```
 
+```
+git checkout -b  postgres-visiton
+```
