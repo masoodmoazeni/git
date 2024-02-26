@@ -23,6 +23,7 @@ list git log ->
 git log
 ```
 
+switch to branch
 ```
 git checkout -b  postgres-visiton
 ```
