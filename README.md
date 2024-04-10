@@ -1,4 +1,9 @@
 # git
+git information
+
+```
+git remote show origin
+```
 
 git new branch ---> git branch develop-visiton
 reset for lats hash commit -> 
