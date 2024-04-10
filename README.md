@@ -5,7 +5,7 @@ git information
 git remote show origin
 ```
 
-git .ignore
+add .ignore to git 
 
 ```
 touch .gitignore
