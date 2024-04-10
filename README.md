@@ -5,6 +5,13 @@ git information
 git remote show origin
 ```
 
+git .ignore
+
+```
+touch .gitignore
+echo 'application/cache' >> .gitignore
+```
+
 git new branch ---> git branch develop-visiton
 reset for lats hash commit -> 
 
