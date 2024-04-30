@@ -39,3 +39,10 @@ switch to branch
 ```
 git checkout -b  postgres-visiton
 ```
+
+# git push to remote 
+```
+git remote rename origin upstream
+git remote add origin URL_TO_GITHUB_REPO
+git push origin master
+```
