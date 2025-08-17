@@ -46,3 +46,10 @@ git remote rename origin upstream
 git remote add origin URL_TO_GITHUB_REPO
 git push origin master
 ```
+
+# git config
+```
+git config --global user.name "My Name"
+git config --global user.email "myemail@example.com"
+gt config --list
+```
