@@ -45,6 +45,8 @@ git checkout -b  postgres-visiton
 git remote rename origin upstream
 git remote add origin URL_TO_GITHUB_REPO
 git push origin master
+git push origin main
+
 ```
 
 # git config
