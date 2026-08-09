@@ -2,6 +2,10 @@
 git information
 
 ```
+git reset --soft HEAD~1
+```
+
+```
 git remote show origin
 ```
 
