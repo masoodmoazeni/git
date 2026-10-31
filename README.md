@@ -1,6 +1,12 @@
 # git
 git information
 
+revert commit 
+```
+git reset --mixed HEAD~1
+```
+
+
 ```
 git reset --soft HEAD~1
 ```
